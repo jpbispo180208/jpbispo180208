@@ -37,7 +37,7 @@
 **Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,notion" alt="Git, GitHub, Linux, Windows, VS Code, Notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>
 
 **📚 Estudando agora:** FastAPI • Docker • NumPy / Pandas • testes com Pytest
